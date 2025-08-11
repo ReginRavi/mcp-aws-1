@@ -1,0 +1,3 @@
+- [ ] MCP server and client scaffolding started.
+- [ ] bootstrap.py will initialize and run the MCP server.
+- [ ] Project structure and dependencies will be set up for MCP.

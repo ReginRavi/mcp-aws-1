@@ -1,0 +1,2 @@
+# MCP server/client dependencies
+# Add more as needed

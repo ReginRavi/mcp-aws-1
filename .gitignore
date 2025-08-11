@@ -1,0 +1,4 @@
+.env
+terraform_ec2
+.github
+_pycache_
