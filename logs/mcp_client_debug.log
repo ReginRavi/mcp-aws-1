@@ -4,3 +4,15 @@
 2025-08-11 09:12:34,953 - urllib3.connectionpool - DEBUG - [connectionpool.py:241] - Starting new HTTP connection (1): 127.0.0.1:8000
 2025-08-11 09:13:33,556 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - http://127.0.0.1:8000 "DELETE /delete_resource HTTP/1.1" 200 29942
 2025-08-15 18:37:33,054 - mcp_client1 - INFO - [mcp_client1.py:35] - MCP Client initialized
+2025-08-15 18:37:47,078 - urllib3.connectionpool - DEBUG - [connectionpool.py:241] - Starting new HTTP connection (1): 127.0.0.1:8000
+2025-08-15 18:39:07,836 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - http://127.0.0.1:8000 "POST /create_ec2 HTTP/1.1" 200 23878
+2025-08-15 18:40:34,882 - urllib3.connectionpool - DEBUG - [connectionpool.py:241] - Starting new HTTP connection (1): 127.0.0.1:8000
+2025-08-15 18:41:29,272 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - http://127.0.0.1:8000 "POST /create_s3 HTTP/1.1" 200 6964
+2025-08-15 18:43:19,723 - urllib3.connectionpool - DEBUG - [connectionpool.py:241] - Starting new HTTP connection (1): 127.0.0.1:8000
+2025-08-15 18:43:19,731 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - http://127.0.0.1:8000 "POST /generate_code HTTP/1.1" 200 390
+2025-08-15 18:44:38,462 - urllib3.connectionpool - DEBUG - [connectionpool.py:241] - Starting new HTTP connection (1): 127.0.0.1:8000
+2025-08-15 18:45:25,712 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - http://127.0.0.1:8000 "DELETE /delete_resource HTTP/1.1" 200 29946
+2025-08-15 18:51:31,607 - urllib3.connectionpool - DEBUG - [connectionpool.py:241] - Starting new HTTP connection (1): 127.0.0.1:8000
+2025-08-15 18:51:44,153 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - http://127.0.0.1:8000 "DELETE /delete_resource HTTP/1.1" 200 503
+2025-08-15 18:52:08,074 - urllib3.connectionpool - DEBUG - [connectionpool.py:241] - Starting new HTTP connection (1): 127.0.0.1:8000
+2025-08-15 18:52:18,050 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - http://127.0.0.1:8000 "DELETE /delete_resource HTTP/1.1" 200 486
