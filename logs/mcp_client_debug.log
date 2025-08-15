@@ -1,0 +1,6 @@
+2025-08-11 09:09:46,187 - mcp_client1 - INFO - [mcp_client1.py:35] - MCP Client initialized
+2025-08-11 09:09:53,456 - urllib3.connectionpool - DEBUG - [connectionpool.py:241] - Starting new HTTP connection (1): 127.0.0.1:8000
+2025-08-11 09:11:01,994 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - http://127.0.0.1:8000 "POST /create_ec2 HTTP/1.1" 200 4552
+2025-08-11 09:12:34,953 - urllib3.connectionpool - DEBUG - [connectionpool.py:241] - Starting new HTTP connection (1): 127.0.0.1:8000
+2025-08-11 09:13:33,556 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - http://127.0.0.1:8000 "DELETE /delete_resource HTTP/1.1" 200 29942
+2025-08-15 18:37:33,054 - mcp_client1 - INFO - [mcp_client1.py:35] - MCP Client initialized

@@ -1,0 +1,7 @@
+# Sample batch commands file
+# Lines starting with # are comments
+
+create ec2 instance t2.micro named web-server-1
+create s3 bucket my-app-data-bucket with versioning
+create rds mysql database named app-db
+generate terraform code for load balancer with auto scaling
